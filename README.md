@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Rashid</h1>
-<h3 align="center">Data Science & Machine Learning Engineer</h3>
+<h3 align="center">Data Scientist & Machine Learning Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammed-rashid-07&label=Profile%20views&color=0e75b6&style=flat" alt="muhammed-rashid-07" /> </p>
 
